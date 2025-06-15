@@ -1,4 +1,5 @@
-## Hi there 👋
+### 👋 Hi! I'm Chloe Chang (she/her)
+I'm currently studying a Bachelor of Advanced Computer Science (Honours) at the University of Western Australia, majoring in Computing and Data Science.
 
 <!--
 **chloetychang/chloetychang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
